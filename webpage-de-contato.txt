@@ -3,3 +3,6 @@ webpage básico de contato ->
 https://viniciusr-py.static.domains
 
 # saiu do ar. 
+ novo endereço:
+
+https://vinicius-r-people.netlify.app/
